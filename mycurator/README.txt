@@ -4,7 +4,7 @@ Donate link:
 Tags: content curation, content curation tools, content curation software, content curation plugin, content marketing, article writing, content writing, blog article
 Requires at least: 3.3
 Tested up to: 6.6
-Stable tag: 3.78
+Stable tag: 3.79
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -117,11 +117,12 @@ cloud services.
 
 == Changelog ==
 
+= 3.79 = 
+* Fix Search 2 Keywords to Tags issue with Phrases
+* Fix Security Issue
+
 = 3.78 = 
 * Fix PHP8 Issue
-
-= 3.77 = 
-* Fix security issue
 
 
 

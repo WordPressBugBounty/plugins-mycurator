@@ -938,7 +938,7 @@ function mct_ai_post_entry($topic, $post_arr, $page){
                 $tagterm = get_term($topic['topic_tag'],'post_tag');
                 if (!empty($tagterm) && !is_wp_error($tagterm)) $details['tags_input'] = array($tagterm->name);
             } else {
-                if (!empty($post_arr['tags'])) $details['tags_input'] = $post_arr['tags'];
+                if (!empty($post_arr['tags'])) $details['tags_input'] = implode(" ", $post_arr); //$post_arr['tags'];
             }
             $details['post_category'] = array($topic['topic_cat']);
         }

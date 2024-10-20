@@ -1262,8 +1262,8 @@ function mct_ai_quick_source() {
         } else {
             if (empty($_POST['newlinkcat'])) $msg .= "Must choose a Source Group. ";
         }
-        $args['newlinkcat'] = trim(sanitize_text_field($_POST['newlinkcat']));
-        $args['feed_name'] = trim(sanitize_text_field($_POST['feed_name']));
+        $args['newlinkcat'] = trim(sanitize_text_field(wp_kses($_POST['newlinkcat'],"")));
+        $args['feed_name'] = trim(sanitize_text_field(wp_kses($_POST['feed_name'],"")));
         $args['rss-url'] =  esc_url($_POST['rss-url']);
         $args['save-url'] = parse_url($args['rss-url'], PHP_URL_HOST);
         //Validate args
