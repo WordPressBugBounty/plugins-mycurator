@@ -10,67 +10,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-= MyCurator Delivers Vibrant Content for your Site =
+= MyCurator will be Closing on 3/31/2025 =
 
-Struggling to find time to create content?  Start with what you do 
-already, reviewing articles in your industry or niche! MyCurator
-will deliver them to your WordPress site where you can easily review
-them. 
+we will be closing down the MyCurator plugin and our cloud server that supports the plugin. Despite our efforts, we’ve seen a shift in how content is being created. With the advent of advanced language models (LLMs), it has become much easier for our customers to generate targeted articles and content on their own, reducing the need for our solution.
 
-Our Machine Learning Relevance engine lets you train MyCurator with 
-a simple up or down vote on an article.  After just a few articles 
-MyCurator will classify the good articles - weeding out 90% or more 
-of the junk and spam articles, saving a huge amount of time.
 
-With one click curate the article into your WordPress Editor
-with an excerpt, image and attribution ready to go.  Just add a 
-paragraph to tell your readers about the article and you've created
-content for your site!
+As a result, we have decided to discontinue our services effective March 31st, 2025. We will be canceling all paid subscription fees at the end of November but you will be able to use MyCurator until March 31st and we will provide bug fixes and customer service until 3/31/2025.  
 
-What is Content Curation? <a href="https://www.target-info.com/what-is-content-curation" >Click Here to Find Out</a>.
+We will no longer be taking on new customers.  We will not be adding new features or functionality.
 
-MyCurator allows you to curate content for a Topic (equivalent to 
-WordPress Categories) for free, but you will have to obtain an API 
-Key to access the cloud services.  For those who need to curate a 
-lot of different topics or for multiple sites, low priced monthly 
-plans are available - always with a free 30 day trial.  
 
-Go to <a href="https://www.target-info.com/pricing/" >Our Site</a> to get your API Key after you install the software.
-
-Visit <a href="https://www.target-info.com/" >MyCurator</a> for more information on 
-how MyCurator can add content curation to your content marketing capabilities.
-
-= MyCurator saves you hours a day by finding content you can use =
-
-* MyCurator's Cloud AI module classifies articles based on their relevance to you after some simple training
-* The AI classification can weed out up to 90% of the spammy, off topic and irrelevant articles on the web
-* You customize the RSS, Twitter and Google Alert Sources you want to use
-* Articles are brought to you throughout the day from your Sources
-* Content is filtered for your keywords and other parameters
-* MyCurator curates content in any language, creating posts in the native language of your site
-* Quickly choose articles for curation, pop-up the full content in a readable page format to help your review
-
-= Easily compose curated posts starting with a click of the Make Live tag =
-
-* MyCurator pre-fills the post with an image, attribution link and an excerpt into the WordPress Editor
-* Choose your own excerpts by just clicking on paragraphs from the original full article
-* Click on images from the original article to add more or change the pre-filled picture
-* Customize the curation with your own insights and comments
-* Options to manage the pre-filled links, images and excerpts in a variety of formats
-
-= MyCurator supports a wide range of curation practices =
-
-* Our Get It bookmarklet allows you to curate content while you browse the web on your desktop, tablet or phone
-* Curate Video from YouTube and other video sources, with the video pre-embedded into your post
-* MyCurator Notebooks allow you to save multiple articles for a complex curation or an original writing project
-* Curate several articles into a single curation just by tagging multiple articles
-* Curate articles to the Custom Post Types you've defined for your site
-* Bulk curation tools to handle curating many articles at once 
-* A Quick Post feature to post the pre-filled curations immediately to your site
-* Selective Auto-Post capability uses our AI classification to automatically post pre-filled curations 
-* Security settings for multiple curators to manage workflow and visibility of articles
-
-View our Training Videos and Documentation at <a href="https://www.target-info.com/training-videos/" >MyCurator</a>.
+It has been over 12 years since we first published MyCurator and we have enjoyed the journey with our customers.  We appreciate your support and loyalty over this time.
 
 == Installation ==
 
